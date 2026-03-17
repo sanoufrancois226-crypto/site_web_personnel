@@ -1,0 +1,16 @@
+{
+  "name": "Site Web Perso",
+  "short_name": "WebPerso",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Politique image unique : le manifest utilise explicitement et uniquement l’icône assets/favicon.png.",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
